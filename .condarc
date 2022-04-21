@@ -1,0 +1,8 @@
+pkgs_dirs:
+  - ~/anaconda3/pkgs
+auto_update_conda: false
+auto_activate_base: false
+channels:
+  - conda-forge
+  - defaults
+channel_priority: flexible
